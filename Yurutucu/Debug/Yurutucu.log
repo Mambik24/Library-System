@@ -1,0 +1,8 @@
+﻿  Admin_200757023.cpp
+C:\Users\al-pe\OneDrive\Masaüstü\Dersler ve Ödevler\Nesneye Yönelik Programlama\Proje 2\Yurutucu\Yurutucu\Admin_200757023.cpp(90,6): warning C4101: 'uyeID': unreferenced local variable
+  Kitap_200757023.cpp
+  Kullanici_200757023.cpp
+  Uye_200757023.cpp
+  Yurutucu.cpp
+  Generating Code...
+  Yurutucu.vcxproj -> C:\Users\al-pe\OneDrive\Masaüstü\Dersler ve Ödevler\Nesneye Yönelik Programlama\Proje 2\Yurutucu\Debug\Yurutucu.exe
